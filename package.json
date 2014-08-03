@@ -1,0 +1,23 @@
+{
+    "name": "mocha-blink1-reporter",
+    "description": "blink(1) reporter for Mocha",
+    "version": "0.1.0",
+    "author": "Jade Meskill <j@octoblu.com>",
+    "keywords": [ "mocha", "reporter", "blink1" ],
+    "licenses" : ["MIT"],
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "index.js",
+    "engines": { "node": ">= 0.6.0" },
+    "scripts": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/octoblu/mocha-blink1-reporter.git"
+    }
+}
