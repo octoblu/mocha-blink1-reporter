@@ -1,11 +1,12 @@
 {
     "name": "mocha-blink1-reporter",
     "description": "blink(1) reporter for Mocha",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "author": "Jade Meskill <j@octoblu.com>",
     "keywords": [ "mocha", "reporter", "blink1" ],
     "licenses" : ["MIT"],
     "dependencies": {
+        "shelljs": "^0.3.0"
     },
     "devDependencies": {
     },
